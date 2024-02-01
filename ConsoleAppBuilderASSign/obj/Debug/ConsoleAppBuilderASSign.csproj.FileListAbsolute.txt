@@ -1,0 +1,7 @@
+C:\Users\LK SRINITHI\source\repos\c#\ConsoleAppBuilderASSign\bin\Debug\ConsoleAppBuilderASSign.exe.config
+C:\Users\LK SRINITHI\source\repos\c#\ConsoleAppBuilderASSign\bin\Debug\ConsoleAppBuilderASSign.exe
+C:\Users\LK SRINITHI\source\repos\c#\ConsoleAppBuilderASSign\bin\Debug\ConsoleAppBuilderASSign.pdb
+C:\Users\LK SRINITHI\source\repos\c#\ConsoleAppBuilderASSign\obj\Debug\ConsoleAppBuilderASSign.csproj.AssemblyReference.cache
+C:\Users\LK SRINITHI\source\repos\c#\ConsoleAppBuilderASSign\obj\Debug\ConsoleAppBuilderASSign.csproj.CoreCompileInputs.cache
+C:\Users\LK SRINITHI\source\repos\c#\ConsoleAppBuilderASSign\obj\Debug\ConsoleAppBuilderASSign.exe
+C:\Users\LK SRINITHI\source\repos\c#\ConsoleAppBuilderASSign\obj\Debug\ConsoleAppBuilderASSign.pdb
